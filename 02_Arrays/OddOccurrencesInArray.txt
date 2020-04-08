@@ -22,6 +22,6 @@ For example, given array A such that:
 the function should return 7, as explained in the example above.
 
 Write an efficient algorithm for the following assumptions:
-     is an odd integer within the range [1..1,000,000];
-    ach element of array A is an integer within the range [1..1,000,000,000];
-    ll but one of the values in A occur an even number of times.
+    N is an odd integer within the range [1..1,000,000];
+    each element of array A is an integer within the range [1..1,000,000,000];
+    all but one of the values in A occur an even number of times.
